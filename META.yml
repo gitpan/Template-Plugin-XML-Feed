@@ -1,6 +1,6 @@
 ---
 name: Template-Plugin-XML-Feed
-version: 0.01
+version: 0.02
 author: []
 abstract: Plugin interface to XML::Feed
 license: perl
@@ -8,7 +8,7 @@ resources:
   license: http://dev.perl.org/licenses/
 requires:
   Template: 0
-  XML::RSS: 0
+  XML::Feed: 0
 build_requires:
   Test::More: 0
 provides:

@@ -7,7 +7,7 @@ WriteMakefile
           'PREREQ_PM' => {
                            'Template' => 0,
                            'Test::More' => 0,
-                           'XML::RSS' => 0
+                           'XML::Feed' => 0
                          },
           'INSTALLDIRS' => 'site',
           'EXE_FILES' => [],
