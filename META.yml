@@ -1,6 +1,6 @@
 ---
 name: Template-Plugin-XML-Feed
-version: 0.02
+version: 0.03
 author: []
 abstract: Plugin interface to XML::Feed
 license: perl
